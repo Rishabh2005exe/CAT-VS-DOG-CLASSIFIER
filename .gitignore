@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except your notebook
+!catVdog_test.ipynb
+
+# and do not ignore this  .gitignore file itself , so it gets saved
+!.gitignore
